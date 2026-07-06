@@ -1,4 +1,6 @@
 ﻿Sistema de Gestión de Restaurante (Semana 6)
+
+ 
 Este proyecto es una aplicación modular en Python que simula la gestión básica de un restaurante, aplicando los principios de la Programación Orientada a Objetos (POO).
 
 El sistema permite registrar productos (platillos y bebidas), gestionar precios mediante encapsulación y mostrar el menú usando polimorfismo.
